@@ -1,0 +1,17 @@
+Letra: a
+Acentos: áàâã
+
+Letra: e
+Acentos: éê
+
+Letra: i
+Acentos: íî
+
+Letra: o
+Acentos: õôõ
+
+Letra: u
+Acentos: úü
+
+Letra: c
+Acentos: ç
